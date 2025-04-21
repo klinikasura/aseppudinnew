@@ -9,4 +9,5 @@ DIGUNAKAN UNTUK PENGEMBANGAN DI MASA DEPAN BERMANFAAT ORANG BANYAK
 SOURCE : https://aseppudin-database.blogspot.com/
 
 RIVIEW APLIKASI : https://klinikasura.github.io/aseppudinnew/
-RILIS APPLIKASI :
+
+RILIS APPLIKASI : https://github.com/klinikasura/aseppudinnew/releases
