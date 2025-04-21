@@ -12,6 +12,11 @@ RIVIEW APLIKASI : https://klinikasura.github.io/aseppudinnew/
 
 RILIS APPLIKASI : https://github.com/klinikasura/aseppudinnew/releases
 
+DOWNLOAD APLIKASI : https://github.com/klinikasura/aseppudinnew/releases/download/V1-21042025-1313-ASEP-PUDIN-NEW/ASEP.PUDIN.NEW.apk
+
 TAMPILAN : 
 
 ![image](https://github.com/user-attachments/assets/e2331643-c5f4-40d1-9a10-6986d1958fd4)
+
+![image](https://github.com/user-attachments/assets/bb2ef772-1820-4166-91a6-f0346d211e02)
+
